@@ -40,4 +40,4 @@ Este projeto oferece uma ótima prática para:
 - Criação de interfaces visuais agradáveis e funcionais.
 
 ## Acesse o código
-Para acessar o código completo do projeto, verifique o arquivo `main.dart` na pasta `lib` do projeto.
+Para acessar o código completo do projeto, verifique a pasta `lib` do projeto.
